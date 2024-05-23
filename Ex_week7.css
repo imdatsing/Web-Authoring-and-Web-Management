@@ -1,0 +1,45 @@
+.blue {
+    background-color: #eeffff;
+    max-width: 500px;
+}
+
+.red {
+    color: red;
+}
+
+.ex1 {
+    background-image: url("bg.gif");
+
+}
+
+.ex1_header {
+    background-color: pink;
+    text-align: center;
+
+    width: 70%;
+    margin: auto;
+}
+
+.ex1_body {
+    font-family: Verdana;
+}
+
+button.yellow {
+    background-color: yellow;
+}
+
+.ex1_tail {
+    background-color: yellow;
+    text-align: center;
+}
+
+.ex2 {
+    background-image: url("bg.gif");
+}
+
+.ex2_body {
+    background-color: cornsilk;
+
+    width: 60%;
+    margin: auto;
+}
